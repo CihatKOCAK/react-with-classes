@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test snapshot for App component 1`] = `
+<div
+  className="App"
+>
+  <a
+    href="https://cihatkocak.netlify.app/"
+  >
+    Say Hi to me xd!
+  </a>
+</div>
+`;
